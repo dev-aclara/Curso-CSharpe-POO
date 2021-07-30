@@ -1,0 +1,12 @@
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.exe
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.deps.json
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.json
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.dev.json
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\bin\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfoInputs.cache
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfo.cs
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\anama\Desktop\ESTUDOS\Curso C#\Classes, atributos, métodos, membros estáticos\Resolvendo um problema sem orientação a objetos\Exercício\Exercício\obj\Debug\netcoreapp3.1\Exercício.genruntimeconfig.cache
